@@ -1,0 +1,75 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Poppins, sans-serif;
+}
+
+img {
+  width: 100%;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  column-count: 3;
+}
+
+#country-name {
+  margin-bottom: -3px;
+  padding-top: 8px;
+  font-size: 18px;
+}
+
+#country-population {
+  font-size: 14px;
+}
+
+.flex-container-main {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 75px;
+  display: flex;
+}
+
+.flex-container-countries {
+  background-color: #eef0f2;
+  border: 1px solid #daddd8;
+  border-radius: 5px;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+  display: flex;
+}
+
+.blue {
+  color: #034078;
+}
+
+.green {
+  color: #607744;
+}
+
+.red {
+  color: #d63230;
+}
+
+.purple {
+  color: #8e7dbe;
+}
+
+.yellow {
+  color: #f0c808;
+}
+
+.grey {
+  color: #514f59;
+}
+
+/*# sourceMappingURL=index.4d663569.css.map */
